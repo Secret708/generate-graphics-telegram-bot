@@ -1,0 +1,6 @@
+aiogram==3.21.0
+dotenv==1.1.1
+matplotlib==3.10.1
+numpy==2.2.3
+sympy==1.14.0
+asyncio==4.0.0
